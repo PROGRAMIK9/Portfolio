@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+html{
+    scroll-behavior: smooth;
+}
+
+*{
+    font-family: "Montserrat", serif;
+}
+
+.tradewind{
+    font-family: "Trade Winds",serif;
+}
+
+.blueshadow{
+    box-shadow: 0px 14px 55px rgba(109, 40, 217, 0.45);
+}
